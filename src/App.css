@@ -1,0 +1,13 @@
+.star_filled {
+  fill: red;
+}
+
+.star {
+  margin-right: 10px;
+  cursor: pointer;
+  transition: fill 250ms ease-in-out;
+}
+
+.rating-container {
+  display: flex;
+}
